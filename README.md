@@ -9,7 +9,6 @@ Welcome to the Random GIF Generator App! This web application is built using Rea
 - **Random GIFs:** Instantly generate and display random GIFs with just a click.
 - **Custom Hooks:** Utilizes custom React hooks for efficient state management and code organization.
 - **User-Friendly Interface:** A clean and intuitive interface for a smooth user experience.
-- **Responsive Design:** Ensures a consistent and enjoyable experience across various devices and screen sizes.
 
 ## Getting Started
 
